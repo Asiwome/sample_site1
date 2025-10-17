@@ -1,0 +1,13 @@
+---
+title: "page2"
+format: html
+---
+
+```{r}
+library(reactable)
+```
+```{r}
+reactable(iris)
+```
+
+
