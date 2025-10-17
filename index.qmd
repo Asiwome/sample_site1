@@ -1,0 +1,9 @@
+---
+title: "index"
+format: html
+---
+
+```{r}
+plot(women)
+```
+
